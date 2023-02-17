@@ -10,6 +10,7 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Web Development Tools](#web-development-tools)
 - [Design Tools](#design-tools)
 - [Productivity Tools](#productivity-tools)
+- [Useful VSCode Extensions](#useful-vscode-extensions)
 
 ## Programming Languages
 
