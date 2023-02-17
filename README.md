@@ -50,10 +50,6 @@ This is a collection of resources that can be helpful to programmers, data scien
 
 If you have any suggestions for additional resources to add to this toolbox, please feel free to create a pull request.
 
-## License
-
-This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgments
 
 - This README
