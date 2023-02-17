@@ -13,9 +13,24 @@ This is a collection of resources that can be helpful to programmers, data scien
 
 ## Programming Languages
 
-- [Python](https://www.python.org/) - A powerful, general-purpose programming language that is widely used in data science, machine learning, web development, and more.
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A popular programming language that is used to create interactive websites and web applications.
-- [Java](https://www.java.com/) - A widely-used programming language that is known for its portability and ability to run on a variety of platforms.
+- [Python](https://www.python.org/) - A high-level, interpreted programming language with a focus on simplicity and readability.
+- [Java](https://www.java.com/en/) - A popular programming language used for building enterprise-level applications, mobile apps, and more.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A scripting language used primarily for web development, but also for server-side programming and game development.
+- [C++](https://isocpp.org/) - A high-performance, general-purpose programming language often used in system software, game development, and other performance-critical applications.
+- [Ruby](https://www.ruby-lang.org/en/) - A dynamic, object-oriented programming language with a focus on simplicity and productivity.
+- [Go](https://golang.org/) - An open-source programming language created by Google, designed for building efficient, scalable, and reliable software.
+- [Swift](https://developer.apple.com/swift/) - A general-purpose programming language created by Apple for developing software for macOS, iOS, watchOS, and tvOS.
+- [PHP](https://www.php.net/) - A server-side scripting language used primarily for web development, but also for general-purpose programming.
+- [Rust](https://www.rust-lang.org/) - A systems programming language that focuses on safety, speed, and concurrency.
+- [Kotlin](https://kotlinlang.org/) - A modern programming language for the Java Virtual Machine (JVM) that can also be compiled to JavaScript or native code.
+- [Spark Ada](https://en.wikipedia.org/wiki/SPARK_(programming_language)) - A programming language designed for high-assurance software development.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - A markup language used for creating web pages and other web-based content.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - A style sheet language used for describing the look and formatting of a document written in HTML or XML.
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - A modern, multi-paradigm programming language developed by Microsoft for building Windows and web applications.
+- [Haskell](https://www.haskell.org/) - A functional programming language that focuses on strong typing, lazy evaluation, and mathematical reasoning.
+- [C](https://en.wikipedia.org/wiki/C_(programming_language)) - A high-level programming language used for system-level programming, embedded systems, and more.
+- [JSON](https://www.json.org/) - A lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate.
+- [XML](https://www.w3.org/XML/) - A markup language used for storing and transporting data, often used in web services and other data exchange scenarios.
 
 ## Version Control Systems
 
@@ -27,6 +42,10 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Jupyter Notebook](https://jupyter.org/) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
 - [NumPy](https://numpy.org/) - A library for the Python programming language that provides support for large, multi-dimensional arrays and matrices, as well as a range of mathematical functions.
 - [Pandas](https://pandas.pydata.org/) - A library for the Python programming language that provides support for data analysis, manipulation, and visualization.
+- [Scikit-learn](https://scikit-learn.org/) - A library for the Python programming language that provides tools for data mining and analysis, including regression, classification, clustering, and more.
+- [Seaborn](https://seaborn.pydata.org/) - A library for the Python programming language that provides tools for data visualization and exploration, including statistical plots, heatmaps, and more.
+- [Python Graph Gallery](https://www.python-graph-gallery.com/) - A collection of hundreds of charts made with Python, including code and examples to recreate them.
+- [ColorBrewer](https://colorbrewer2.org/) - A tool for creating color schemes for maps and visualizations, with options for colorblind-safe and print-friendly palettes.
 
 ## Web Development Tools
 
