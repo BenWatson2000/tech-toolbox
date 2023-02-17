@@ -50,9 +50,30 @@ This is a collection of resources that can be helpful to programmers, data scien
 
 ## Web Development Tools
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
-- [Vue.js](https://vuejs.org/) - A progressive JavaScript framework for building user interfaces.
-- [Bootstrap](https://getbootstrap.com/) - A popular framework for building responsive, mobile-first websites and web applications.
+## Web Development Tools
+
+### Front-End Development
+
+- [React](https://reactjs.org/) - A popular JavaScript library for building user interfaces, developed and maintained by Facebook.
+- [Vue.js](https://vuejs.org/) - A progressive, lightweight JavaScript framework for building UIs, developed and maintained by a community of developers.
+- [Bootstrap](https://getbootstrap.com/) - A popular open-source CSS framework for building responsive and mobile-first websites and web applications.
+- [Tailwind CSS](https://tailwindcss.com/) - A highly customizable and utility-first CSS framework for building modern web interfaces.
+
+### Back-End Development
+
+- [Node.js](https://nodejs.org/) - A popular server-side JavaScript runtime that allows you to build scalable and efficient web applications and APIs.
+- [Express](https://expressjs.com/) - A minimalist and flexible Node.js web framework that provides a robust set of features for building web and mobile applications.
+- [Django](https://www.djangoproject.com/) - A high-level Python web framework that helps you build scalable and secure web applications quickly.
+- [Flask](https://palletsprojects.com/p/flask/) - A lightweight and flexible Python web framework that provides useful tools and features for building web applications.
+- [MongoDB](https://www.mongodb.com/) - A popular NoSQL database that provides scalability and flexibility for building modern web applications.
+- [PostgreSQL](https://www.postgresql.org/) - A powerful open-source relational database management system that provides scalability and security features for web applications.
+
+### Other Web Development Tools
+
+- [Webpack](https://webpack.js.org/) - A popular static module bundler for JavaScript applications that helps you manage dependencies and optimize your code.
+- [Gulp](https://gulpjs.com/) - A popular task runner that helps you automate repetitive tasks in your web development workflow, such as compiling and minifying CSS and JavaScript.
+- [Babel](https://babeljs.io/) - A popular JavaScript transpiler that helps you write modern JavaScript code and transpiles it to compatible code that can run in older browsers.
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) - A powerful open-source tool from Google that helps you improve the quality and performance of your web applications.
 
 ## Design Tools
 
