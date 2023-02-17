@@ -50,8 +50,6 @@ This is a collection of resources that can be helpful to programmers, data scien
 
 ## Web Development Tools
 
-## Web Development Tools
-
 ### Front-End Development
 
 - [React](https://reactjs.org/) - A popular JavaScript library for building user interfaces, developed and maintained by Facebook.
