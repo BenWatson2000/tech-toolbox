@@ -65,6 +65,13 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Trello](https://trello.com/) - A web-based project management tool that allows you to organize your work and collaborate with others.
 - [Slack](https://slack.com/) - A team collaboration tool that allows you to communicate and share files with others in real-time.
 
+## Useful VSCode Extensions
+
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - A tool that helps you capture and share your code as images or videos, making it easier to communicate your ideas to others.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - A popular linter that helps you find and fix errors and code quality issues in your JavaScript and TypeScript code.
+- [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen) - An extension that helps you generate Doxygen-style documentation for your C++, C#, and Java code.
+- [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - An AI-powered code completion tool that suggests code snippets and predicts what you're likely to type next, helping you write code faster and more accurately.
+
 ## Contributing
 
 If you have any suggestions for additional resources to add to this toolbox, please feel free to create a pull request.
