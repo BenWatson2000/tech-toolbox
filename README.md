@@ -42,6 +42,7 @@ This is a collection of resources that can be helpful to programmers, data scien
 ## Data Science Tools
 
 - [Jupyter Notebook](https://jupyter.org/) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
+- [Microsoft Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/): A fast, easy, and collaborative Apache Spark-based analytics platform designed to help you process big data and build AI solutions.
 - [NumPy](https://numpy.org/) - A library for the Python programming language that provides support for large, multi-dimensional arrays and matrices, as well as a range of mathematical functions.
 - [Pandas](https://pandas.pydata.org/) - A library for the Python programming language that provides support for data analysis, manipulation, and visualization.
 - [Scikit-learn](https://scikit-learn.org/) - A library for the Python programming language that provides tools for data mining and analysis, including regression, classification, clustering, and more.
