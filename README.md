@@ -46,6 +46,9 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [NumPy](https://numpy.org/) - A library for the Python programming language that provides support for large, multi-dimensional arrays and matrices, as well as a range of mathematical functions.
 - [Pandas](https://pandas.pydata.org/) - A library for the Python programming language that provides support for data analysis, manipulation, and visualization.
 - [Scikit-learn](https://scikit-learn.org/) - A library for the Python programming language that provides tools for data mining and analysis, including regression, classification, clustering, and more.
+- [TensorFlow](https://www.tensorflow.org/): An end-to-end open-source platform for machine learning that makes it easy to build and deploy ML models at scale, and includes a comprehensive suite of tools and libraries for developing advanced ML applications.
+- [Keras](https://keras.io/): An easy-to-use deep learning library that allows you to build, train, and deploy neural networks with just a few lines of code.
+- [Matplotlib](https://matplotlib.org/): A comprehensive library for creating static, animated, and interactive visualizations in Python, with publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
 - [Seaborn](https://seaborn.pydata.org/) - A library for the Python programming language that provides tools for data visualization and exploration, including statistical plots, heatmaps, and more.
 - [Python Graph Gallery](https://www.python-graph-gallery.com/) - A collection of hundreds of charts made with Python, including code and examples to recreate them.
 - [ColorBrewer](https://colorbrewer2.org/) - A tool for creating color schemes for maps and visualizations, with options for colorblind-safe and print-friendly palettes.
