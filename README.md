@@ -8,6 +8,7 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Version Control Systems](#version-control-systems)
 - [Data Science Tools](#data-science-tools)
 - [Web Development Tools](#web-development-tools)
+- [Cloud Services](#cloud-services)
 - [Design Tools](#design-tools)
 - [Productivity Tools](#productivity-tools)
 - [Useful VSCode Extensions](#useful-vscode-extensions)
@@ -72,6 +73,15 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Gulp](https://gulpjs.com/) - A popular task runner that helps you automate repetitive tasks in your web development workflow, such as compiling and minifying CSS and JavaScript.
 - [Babel](https://babeljs.io/) - A popular JavaScript transpiler that helps you write modern JavaScript code and transpiles it to compatible code that can run in older browsers.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - A powerful open-source tool from Google that helps you improve the quality and performance of your web applications.
+
+## Cloud Services
+
+- [Amazon Web Services (AWS)](https://aws.amazon.com/) - A comprehensive and widely used cloud platform that provides a range of services, including compute, storage, databases, analytics, and more.
+- [Microsoft Azure](https://azure.microsoft.com/) - A cloud computing platform by Microsoft that offers a variety of services and solutions for hosting, deploying, and managing web applications.
+- [Google Cloud Platform (GCP)](https://cloud.google.com/) - A suite of cloud computing services by Google that includes computing, storage, and application development tools.
+- [Firebase](https://firebase.google.com/) - A mobile and web application development platform by Google that offers a range of backend services, including hosting, real-time database, and authentication.
+- [Heroku](https://www.heroku.com/) - A cloud platform that provides a fully-managed environment for hosting and deploying web applications, with a focus on ease of use and rapid development.
+- [DigitalOcean](https://www.digitalocean.com/) - A cloud infrastructure provider that offers simple and reliable virtual servers, object storage, and more, with a focus on developers and small businesses.
 
 ## Design Tools
 
