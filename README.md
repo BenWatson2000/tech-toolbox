@@ -12,6 +12,7 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Design Tools](#design-tools)
 - [Productivity Tools](#productivity-tools)
 - [Useful VSCode Extensions](#useful-vscode-extensions)
+- [Dashboarding and Results Tools](#dashboarding-and-results-tools)
 
 ## Programming Languages
 
@@ -89,6 +90,19 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Firebase](https://firebase.google.com/) - A mobile and web application development platform by Google that offers a range of backend services, including hosting, real-time database, and authentication.
 - [Heroku](https://www.heroku.com/) - A cloud platform that provides a fully-managed environment for hosting and deploying web applications, with a focus on ease of use and rapid development.
 - [DigitalOcean](https://www.digitalocean.com/) - A cloud infrastructure provider that offers simple and reliable virtual servers, object storage, and more, with a focus on developers and small businesses.
+
+## Dashboarding and Results Tools
+
+- [Power BI](https://powerbi.microsoft.com/en-us/) - Data visualization and business intelligence tool from Microsoft that allows users to create interactive dashboards and reports.
+- [Tableau](https://www.tableau.com/) - Powerful data visualization tool that helps users to create interactive and beautiful dashboards.
+- [QlikView](https://www.qlik.com/us/products/qlikview) - Data discovery and business intelligence platform that enables users to analyze, visualize and explore their data.
+- [Google Data Studio](https://datastudio.google.com/) - Free data visualization tool that helps users to create interactive dashboards and reports.
+- [Domo](https://www.domo.com/) - Cloud-based business intelligence platform that provides real-time data insights and visualization.
+- [SAP Lumira](https://www.sap.com/products/lumira.html) - Data visualization tool that enables users to create interactive dashboards, charts and maps.
+- [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Powerful spreadsheet program that can be used to create charts, graphs and tables to visualize data.
+- [Looker](https://looker.com/) - Business intelligence and analytics platform that allows users to explore and analyze data using SQL-like queries.
+- [IBM Cognos Analytics](https://www.ibm.com/products/cognos-analytics) - Business intelligence and analytics platform that provides data visualization, reporting and analysis capabilities.
+- [SAS Visual Analytics](https://www.sas.com/en_us/software/visual-analytics.html) - Data visualization and analysis tool that enables users to explore and analyze their data.
 
 ## Design Tools
 
