@@ -9,10 +9,10 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Data Science Tools](#data-science-tools)
 - [Web Development Tools](#web-development-tools)
 - [Cloud Services](#cloud-services)
+- [Dashboarding and Results Tools](#dashboarding-and-results-tools)
 - [Design Tools](#design-tools)
 - [Productivity Tools](#productivity-tools)
 - [Useful VSCode Extensions](#useful-vscode-extensions)
-- [Dashboarding and Results Tools](#dashboarding-and-results-tools)
 
 ## Programming Languages
 
