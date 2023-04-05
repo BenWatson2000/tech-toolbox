@@ -13,6 +13,7 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [Design Tools](#design-tools)
 - [Productivity Tools](#productivity-tools)
 - [Useful VSCode Extensions](#useful-vscode-extensions)
+- [Useful UNIX / MacOS Shell Extensions](#useful-unix-extensions)
 
 ## Programming Languages
 
@@ -122,6 +123,17 @@ This is a collection of resources that can be helpful to programmers, data scien
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - A popular linter that helps you find and fix errors and code quality issues in your JavaScript and TypeScript code.
 - [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen) - An extension that helps you generate Doxygen-style documentation for your C++, C#, and Java code.
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - An AI-powered code completion tool that suggests code snippets and predicts what you're likely to type next, helping you write code faster and more accurately.
+
+## Useful Unix Extensions
+
+- [Zsh Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - A plugin for the Zsh shell that provides syntax highlighting for commands and their arguments, making it easier to spot errors and understand what's happening in your terminal session.
+- [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Another plugin for Zsh that suggests command completions based on your command history, making it faster to type frequently used commands and reducing typos.
+- [Oh My Zsh](https://ohmyz.sh/) - A community-driven framework for managing your Zsh configuration that includes a variety of plugins and themes to customize your shell experience.
+- [tmux](https://github.com/tmux/tmux) - A terminal multiplexer that allows you to split your terminal window into multiple panes and tabs, making it easier to work with multiple terminal sessions at once.
+- [jq](https://stedolan.github.io/jq/) - A command-line tool for processing and manipulating JSON data, making it easier to extract and transform data from APIs and other sources.
+- [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder that allows you to quickly search and navigate through files, directories, and command history using a fuzzy search interface.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - A faster alternative to the grep command for searching through files and directories using regular expressions, making it easier to find and analyze large amounts of text data.
+
 
 ## Contributing
 
