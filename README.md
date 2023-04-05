@@ -126,6 +126,7 @@ This is a collection of resources that can be helpful to programmers, data scien
 
 ## Useful Unix Extensions
 
+- [Homebrew](https://brew.sh/) - A package manager for macOS and Linux that makes it easy to install and manage a variety of Unix software packages and tools.
 - [Zsh Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - A plugin for the Zsh shell that provides syntax highlighting for commands and their arguments, making it easier to spot errors and understand what's happening in your terminal session.
 - [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Another plugin for Zsh that suggests command completions based on your command history, making it faster to type frequently used commands and reducing typos.
 - [Oh My Zsh](https://ohmyz.sh/) - A community-driven framework for managing your Zsh configuration that includes a variety of plugins and themes to customize your shell experience.
