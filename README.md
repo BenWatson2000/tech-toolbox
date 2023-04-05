@@ -119,6 +119,7 @@ This is a collection of resources that can be helpful to programmers, data scien
 
 ## Useful VSCode Extensions
 
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - An extension that provides an interactive and customizable graph of your Git repository, making it easier to understand the history and relationships of your branches and commits.
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - A tool that helps you capture and share your code as images or videos, making it easier to communicate your ideas to others.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - A popular linter that helps you find and fix errors and code quality issues in your JavaScript and TypeScript code.
 - [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen) - An extension that helps you generate Doxygen-style documentation for your C++, C#, and Java code.
