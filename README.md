@@ -1,5 +1,7 @@
 # Tech Toolbox
 
+By Ben Watson 👨‍💻✨🛠️
+
 This is a collection of resources that can be helpful to programmers, data scientists, and anyone working in the tech industry. It includes links to various online tools, libraries, and other resources that can make your work easier, more efficient, and more effective.
 
 ## Table of Contents
