@@ -4,8 +4,6 @@ By Ben Thompson-Watson
 
 A curated, single-file toolbox for programmers, data scientists, and anyone working in tech. It collects the tools, links, and working practices that make your work easier, more efficient, and more effective — from AI-assisted development through to shell utilities.
 
-> **Note:** The former `ai-toolbox` repository has been merged into this one, so all of the AI tooling and workshop content now lives here, in this README.
-
 ## Table of Contents
 
 - [🤖 AI-Assisted Development](#-ai-assisted-development)
