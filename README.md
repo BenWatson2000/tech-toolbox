@@ -35,7 +35,7 @@ A curated, single-file toolbox for programmers, data scientists, and anyone work
 
 ## 🤖 AI-Assisted Development
 
-Everything you need to compare, adopt, and get real value from modern AI coding tools — including the full workshop material from the old `ai-toolbox` repo.
+Everything you need to compare, adopt, and get real value from modern AI coding tools — from a tools comparison through to hands-on labs and a ready-to-run workshop kit.
 
 ### AI Coding Tools
 
@@ -46,9 +46,6 @@ Everything you need to compare, adopt, and get real value from modern AI coding 
 | [OpenAI Codex](https://openai.com/codex/) | Structured coding tasks, larger changes, and agentic workflows — implementation plus reasoning over files and tasks. | Keep requirements explicit to avoid broad or off-target edits. |
 | [Cursor](https://cursor.com/) | An AI-first code editor with inline edits, chat, and codebase-aware autocomplete. | Review multi-file "agent" edits carefully before accepting. |
 | [Playwright](https://playwright.dev/) ([docs](https://playwright.dev/docs/intro)) | End-to-end testing and browser automation — pairs well with AI tools for generating and maintaining UI tests. | Test reliability depends on stable selectors and good test isolation. |
-| GitNexus | Git-centric workflows, repository navigation, and collaboration context tied to branch state, history, and PR flow. | Validate outputs against the current branch and CI rules. |
-| Pixel Agents | Multi-step agent workflows and orchestration — chaining planning, implementation, and validation in one flow. | Keep guardrails explicit to avoid over-broad actions in automated runs. |
-| UI-UX Pro Max Skill Next Level Builder Tool | Rapid UI concepting, UX flow iteration, and high-polish interface drafting. | Validate accessibility, responsiveness, and design-system consistency before shipping. |
 
 ### Choosing the Right Tool
 
@@ -56,8 +53,6 @@ Everything you need to compare, adopt, and get real value from modern AI coding 
 - Use planning-first agentic workflows (Claude Code, Codex) for multi-file changes.
 - Use review-focused modes when quality risk is high.
 - Use Playwright when validating real user flows in the browser.
-- Use multi-agent tools when you want repeatable workflows with clear stages.
-- Use UI/UX builder tools when your priority is design exploration and prototype velocity.
 
 ### Working with AI: Foundations
 
@@ -489,5 +484,4 @@ If you have any suggestions for additional resources to add to this toolbox, ple
 
 ## Acknowledgments
 
-- This README merges and builds on the content of the former [`ai-toolbox`](https://github.com/BenWatson2000/ai-toolbox) repository.
 - Thanks to everyone who suggests and maintains the resources listed here.
