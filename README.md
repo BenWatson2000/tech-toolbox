@@ -367,6 +367,7 @@ Score each area, then total it up.
 
 - [Playwright](https://playwright.dev/) - Cross-browser end-to-end testing and automation with a trace viewer, robust test runner, and parallel execution.
 - [Cypress](https://www.cypress.io/) - A developer-friendly end-to-end testing framework that runs in the browser with time-travel debugging.
+- [Agent QA](https://github.com/vostride/agent-qa) - AI-assisted natural-language web and mobile regression testing through CLI or MCP, with retained run memory and UI-change adaptation.
 - [Jest](https://jestjs.io/) - A delightful JavaScript testing framework with a focus on simplicity, batteries included.
 - [Vitest](https://vitest.dev/) - A Vite-native unit test framework — Jest-compatible API with much faster startup.
 - [pytest](https://docs.pytest.org/) - The de facto standard Python testing framework: simple asserts, powerful fixtures, and a huge plugin ecosystem.
