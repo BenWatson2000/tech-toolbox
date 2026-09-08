@@ -37,6 +37,7 @@ Everything you need to compare, adopt, and get real value from modern AI coding 
 | [OpenAI Codex](https://openai.com/codex/) | Structured coding tasks, larger changes, and agentic workflows — implementation plus reasoning over files and tasks. | Keep requirements explicit to avoid broad or off-target edits. |
 | [Cursor](https://cursor.com/) | An AI-first code editor with inline edits, chat, and codebase-aware autocomplete. | Review multi-file "agent" edits carefully before accepting. |
 | [Playwright](https://playwright.dev/) ([docs](https://playwright.dev/docs/intro)) | End-to-end testing and browser automation — pairs well with AI tools for generating and maintaining UI tests. | Test reliability depends on stable selectors and good test isolation. |
+| [YYLO](https://github.com/yylo-dev/yylo) ([npm](https://www.npmjs.com/package/@yylo/cli)) | Command-line orchestration of coding agents (Pi, Codex): repeatable task workflows, a dedicated worktree per task, typed validation, and a risk-based merge queue for receipt-backed changes. | Young project (57★) — review the merge-gate defaults before enabling on protected branches. |
 
 ### Choosing the Right Tool
 
