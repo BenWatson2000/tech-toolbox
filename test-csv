@@ -1,0 +1,50 @@
+Model,Era,Codename,Primary Ability ,Date Made ,Estimated Value ,Key Movie Appearances 
+Mark 1,Foundations,N/A,"Flamethrowers, crude rocket booster, bulletproof scrap plating.",Feb 2008,$0,Iron Man
+Mark 2,Foundations,N/A,"First true flight prototype, integrated J.A.R.V.I.S. UI.",May 2008,$100 Million,"Iron Man, Iron Man 2"
+Mark 3,Foundations,N/A,"Gold-titanium alloy (fixes icing issue), shoulder guns, repulsors.",Jun 2008,$120 Million,Iron Man
+Mark 4,Foundations,N/A,"Upgraded flight dynamics, manual helmet removal, waste filtration.",Mid 2009,$130 Million,Iron Man 2
+Mark 5,Foundations,Suitcase,"Suitcase Suit - lightweight, emergency portable armor.",May 2010,$150 Million,Iron Man 2
+Mark 6,Foundations,N/A,"Triangular Vibranium-core Arc Reactor, high-powered one-time laser.",May 2010,$200 Million,"Iron Man 2, The Avengers"
+Mark 7,Foundations,N/A,"Laser-guided homing pod deployment, back-thruster jetpack.",May 2012,$250 Million,The Avengers
+Mark 8,Prototypes / Specialists,Vanguard,Advanced combat prototype; reinforced Kevlar plating.,May-Dec 2012,$150 Million,Iron Man 3
+Mark 9,Prototypes / Specialists,Midas,Enhanced high-altitude flight maneuverability.,May-Dec 2012,$160 Million,Iron Man 3
+Mark 10,Prototypes / Specialists,Brawler,Redesigned chest armor for heavy stabilization.,May-Dec 2012,$160 Million,Iron Man 3
+Mark 11,Prototypes / Specialists,Defenser,Redesigned helmet UI and reinforced neck guard.,May-Dec 2012,$165 Million,Iron Man 3
+Mark 12,Prototypes / Specialists,Wrecker,High-mobility brawler prototype built from carbon gold.,May-Dec 2012,$180 Million,Iron Man 3
+Mark 13,Prototypes / Specialists,Evacuator,High-altitude stealth armor designed for sudden drops.,May-Dec 2012,$190 Million,Iron Man 3
+Mark 14,Prototypes / Specialists,Striker,Early velocity prototype emphasizing rapid forward thrust.,May-Dec 2012,$175 Million,Iron Man 3
+Mark 15,Prototypes / Specialists,Sneaky,"Sonic-dampening thrusters, retro-reflective stealth coating.",May-Dec 2012,$250 Million,Iron Man 3
+Mark 16,Prototypes / Specialists,Nightclub,Complete visual electronic counter-measure stealth; no heavy weapons.,May-Dec 2012,$260 Million,Iron Man 3
+Mark 17,Prototypes / Specialists,Heartbreaker,Oversized RT Chest Repulsor; fires massive impact beams.,May-Dec 2012,$280 Million,Iron Man 3
+Mark 18,Prototypes / Specialists,Casanova,Stealth artillery centurion; combines stealth with heavy guns.,May-Dec 2012,$290 Million,Iron Man 3
+Mark 19,Prototypes / Specialists,Tiger,High-velocity prototype testing secondary repulsor thrusters.,May-Dec 2012,$180 Million,Iron Man 3
+Mark 20,Prototypes / Specialists,Python,Ultra-long-range endurance suit with massive surplus fuel tanks.,May-Dec 2012,$210 Million,Iron Man 3
+Mark 21,Prototypes / Specialists,Midas,Full gold-titanium alloy specialized for extreme high-altitude pressure.,May-Dec 2012,$300 Million,Iron Man 3
+Mark 22,Prototypes / Specialists,Hot Rod,War Machine prototype variant; built for extreme speed.,May-Dec 2012,$200 Million,Iron Man 3
+Mark 23,Prototypes / Specialists,Shades,Multi-layered heat shielding; built for extreme temperatures.,May-Dec 2012,$220 Million,Iron Man 3
+Mark 24,Prototypes / Specialists,Tank,Heavy combat armor designed to withstand direct explosive impacts.,May-Dec 2012,$250 Million,Iron Man 3
+Mark 25,Prototypes / Specialists,Thumper,Dual pneumatic jackhammer arms for crushing concrete/debris.,May-Dec 2012,$320 Million,Iron Man 3
+Mark 26,Prototypes / Specialists,Gamma,Upgraded jackhammer suit insulated against severe radiation.,May-Dec 2012,$340 Million,Iron Man 3
+Mark 27,Prototypes / Specialists,Disco,Chameleon armor; shifts color scheme to match surroundings.,May-Dec 2012,$300 Million,Iron Man 3
+Mark 28,Prototypes / Specialists,Jack,Radiation-resistant zone armor; fully sealed internal oxygen.,May-Dec 2012,$240 Million,Iron Man 3
+Mark 29,Prototypes / Specialists,Fiddler,Single-arm heavy construction jackhammer with nimble left hand.,May-Dec 2012,$280 Million,Iron Man 3
+Mark 30,Prototypes / Specialists,Blue Steel,Enhanced energy routing; can overcharge repulsors temporarily.,May-Dec 2012,$220 Million,Iron Man 3
+Mark 31,Prototypes / Specialists,Piston,High-velocity centurion suit capable of rapid-fire kinetic strikes.,May-Dec 2012,$210 Million,Iron Man 3
+Mark 32,Prototypes / Specialists,Romeo,Lightweight armor built specifically to optimize chest RT output.,May-Dec 2012,$200 Million,Iron Man 3
+Mark 33,Prototypes / Specialists,Silver Centurion,Retractable forearm blades; enhanced energy protective field.,May-Dec 2012,$350 Million,Iron Man 3
+Mark 34,Prototypes / Specialists,Southpaw,Single-arm heavy rescue crane; designed for lifting collapsed bridges.,May-Dec 2012,$270 Million,Iron Man 3
+Mark 35,Prototypes / Specialists,Red Snapper,Dual heavy extendable rescue claws for collapsed structures.,May-Dec 2012,$300 Million,Iron Man 3
+Mark 36,Prototypes / Specialists,Peacemaker,Riot control armor; equipped with wide-frequency sonic repulsors.,May-Dec 2012,$280 Million,Iron Man 3
+Mark 37,Prototypes / Specialists,Hammerhead,Deep-sea exploration; withstands immense ocean trench pressure.,May-Dec 2012,$450 Million,Iron Man 3
+Mark 38,Prototypes / Specialists,Igor,Ultra-heavy lifting exoskeleton; can support weight up to 100 tons.,May-Dec 2012,$400 Million,Iron Man 3
+Mark 39,Prototypes / Specialists,Starboost,"Sub-orbital space travel; integrated maneuver thrusters, heavy oxygen.",May-Dec 2012,$600 Million,Iron Man 3
+Mark 40,Prototypes / Specialists,Shotgun,Hyper-velocity traveler; aerodynamic folding plates to cross Mach 5.,May-Dec 2012,$500 Million,Iron Man 3
+Mark 41,Prototypes / Specialists,Bones,Skeletonized armor; pieces detach to attack multiple targets at once.,May-Dec 2012,$350 Million,Iron Man 3
+Mark 42,Prototypes / Specialists,Prodigal Son,Prehensile propulsion; individual parts fly across distances to form.,May-Dec 2012,$625 Million,Iron Man 3
+Mark 43,Post-Malibu,N/A,Prehensile system perfected; sentry mode automated.,Late 2014,$450 Million,Avengers: Age of Ultron
+Mark 44,Post-Malibu,Hulkbuster,Deploys from orbit ('Veronica'); modular field repairs.,Late 2014,$1.8 Billion,Avengers: Age of Ultron
+Mark 45,Post-Malibu,N/A,First organic-contour design; introduced the F.R.I.D.A.Y. AI interface.,May 2015,$500 Million,Avengers: Age of Ultron
+Mark 46,Post-Malibu,N/A,Fully retractable helmet into the chest; housing 20+ micro-RT cameras.,Early 2016,$600 Million,Captain America: Civil War
+Mark 47,Post-Malibu,N/A,Wi-Fi remote piloting via satellite headset over thousands of miles.,Mid 2017,$650 Million,Spider-Man: Homecoming
+Mark 50,Post-Malibu,N/A,Nanotechnology - housing billions of micro-bots; shifts into shields/blades.,Early 2018,$6 Billion,"Avengers: Infinity War, Avengers: Endgame"
+Mark 85,Post-Malibu,N/A,"Ultimate Nano-Armor - integrated energy refiners, Infinity Stone housing.",Oct 2023,$10 Billion,Avengers: Endgame
